@@ -1,0 +1,22 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Potensi": "tidak berpotensi TSUNAMI",
+      "Wilayah5": "2450 km Tenggara JAKARTA-INDONESIA",
+      "point": {
+        "coordinates": "128.83,-7.66"
+      },
+      "Tanggal": "01-Dec-18",
+      "Bujur": "128.83 BT",
+      "Kedalaman": "162 Km",
+      "Jam": "20:27:20 WIB",
+      "_symbol": "imagesSWF/k3b.swf",
+      "Wilayah1": "275 km TimurLaut MALUKUBRTDAYA",
+      "Magnitude": "6.5 SR",
+      "Wilayah4": "466 km TimurLaut BELU-NTT",
+      "Wilayah3": "450 km Tenggara AMBON-MALUKU",
+      "Wilayah2": "281 km BaratDaya MALUKUTENGGARABRT",
+      "Lintang": "7.66 LS"
+    }
+  }
+}

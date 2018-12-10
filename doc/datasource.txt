@@ -1,0 +1,33 @@
+
+url cuaca besok
+---------------
+http://maritim.bmkg.go.id/xml/wilayah_pelayanan/prakiraan_by_kode?kode=F.07&kategori=besok
+
+
+url cuaca hari ini
+------------------
+http://maritim.bmkg.go.id/xml/wilayah_pelayanan/prakiraan_by_kode?kode=F.07&kategori=hari_ini
+
+url inawave
+-------------
+user : renderofs
+pass : render2303
+http://172.19.1.121/render/netcdf/
+
+url gempa
+---------
+http://data.bmkg.go.id/en_autogempa.xml
+
+
+url cuaca kota pulau jawa dan sulawesi selatan
+----------
+['http://data.bmkg.go.id/datamkg/MEWS/DigitalForecast/DigitalForecast-JawaBarat.xml',
+'http://data.bmkg.go.id/datamkg/MEWS/DigitalForecast/DigitalForecast-JawaTengah.xml',
+'http://data.bmkg.go.id/datamkg/MEWS/DigitalForecast/DigitalForecast-JawaTimur.xml',
+'http://data.bmkg.go.id/datamkg/MEWS/DigitalForecast/DigitalForecast-SulawesiSelatan.xml']
+
+ur cuaca pelabuhan
+--------------
+http://maritim.bmkg.go.id/xml/pelabuhan_utama?stasiun=%s&format=json
+http://maritim.bmkg.go.id/xml/pelabuhan_utama?stasiun=342&format=json
+342

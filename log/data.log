@@ -1,0 +1,105 @@
+12/02/2018 07:29:44 PM --  * Restarting with stat
+12/02/2018 07:29:45 PM --  * Debugger is active!
+12/02/2018 07:29:45 PM --  * Debugger PIN: 197-708-606
+12/02/2018 07:29:45 PM --  * Running on http://0.0.0.0:8180/ (Press CTRL+C to quit)
+12/02/2018 07:34:15 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:15 PM --  * Restarting with stat
+12/02/2018 07:34:16 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:16 PM --  * Debugger is active!
+12/02/2018 07:34:16 PM --  * Debugger PIN: 197-708-606
+12/02/2018 07:34:16 PM --  * Running on http://0.0.0.0:8180/ (Press CTRL+C to quit)
+12/02/2018 07:34:17 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: [never], next run: 2018-12-02 19:34:17)
+12/02/2018 07:34:17 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:18 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: [never], next run: 2018-12-02 19:34:18)
+12/02/2018 07:34:18 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:19 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:17, next run: 2018-12-02 19:34:19)
+12/02/2018 07:34:19 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:20 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:18, next run: 2018-12-02 19:34:20)
+12/02/2018 07:34:20 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:21 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:19, next run: 2018-12-02 19:34:21)
+12/02/2018 07:34:21 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:22 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:20, next run: 2018-12-02 19:34:22)
+12/02/2018 07:34:22 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:23 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:21, next run: 2018-12-02 19:34:23)
+12/02/2018 07:34:23 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:24 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:22, next run: 2018-12-02 19:34:24)
+12/02/2018 07:34:24 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:25 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:23, next run: 2018-12-02 19:34:25)
+12/02/2018 07:34:25 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:26 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:24, next run: 2018-12-02 19:34:26)
+12/02/2018 07:34:26 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:27 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:25, next run: 2018-12-02 19:34:27)
+12/02/2018 07:34:27 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:28 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:26, next run: 2018-12-02 19:34:28)
+12/02/2018 07:34:28 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:29 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:27, next run: 2018-12-02 19:34:29)
+12/02/2018 07:34:29 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:30 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:28, next run: 2018-12-02 19:34:30)
+12/02/2018 07:34:30 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:31 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:29, next run: 2018-12-02 19:34:31)
+12/02/2018 07:34:31 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:32 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:30, next run: 2018-12-02 19:34:32)
+12/02/2018 07:34:32 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:33 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:31, next run: 2018-12-02 19:34:33)
+12/02/2018 07:34:33 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:34 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:32, next run: 2018-12-02 19:34:34)
+12/02/2018 07:34:34 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:35 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:33, next run: 2018-12-02 19:34:35)
+12/02/2018 07:34:35 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:36 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:34, next run: 2018-12-02 19:34:36)
+12/02/2018 07:34:36 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:37 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:35, next run: 2018-12-02 19:34:37)
+12/02/2018 07:34:37 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:38 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:36, next run: 2018-12-02 19:34:38)
+12/02/2018 07:34:38 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:39 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:37, next run: 2018-12-02 19:34:39)
+12/02/2018 07:34:39 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:40 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:38, next run: 2018-12-02 19:34:40)
+12/02/2018 07:34:40 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:41 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:39, next run: 2018-12-02 19:34:41)
+12/02/2018 07:34:41 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:42 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:40, next run: 2018-12-02 19:34:42)
+12/02/2018 07:34:42 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:43 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:41, next run: 2018-12-02 19:34:43)
+12/02/2018 07:34:43 PM -- DATA_HANDLER - Downloading earthquake data
+12/02/2018 07:34:44 PM -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:42, next run: 2018-12-02 19:34:44)
+12/02/2018 07:34:44 PM -- DATA_HANDLER - Downloading earthquake data
+2018-12-02 19:34:49,805 -- DATA_HANDLER - Downloading earthquake data
+2018-12-02 19:34:49,930 --  * Restarting with stat
+2018-12-02 19:34:50,496 -- DATA_HANDLER - Downloading earthquake data
+2018-12-02 19:34:50,512 --  * Debugger is active!
+2018-12-02 19:34:50,515 --  * Debugger PIN: 197-708-606
+2018-12-02 19:34:50,519 --  * Running on http://0.0.0.0:8180/ (Press CTRL+C to quit)
+2018-12-02 19:34:51,809 -- Running job Every 2 seconds do routine_every_30_seconds() (last run: [never], next run: 2018-12-02 19:34:51)
+2018-12-02 19:34:51,809 -- DATA_HANDLER - Downloading earthquake data
+2018-12-02 19:34:52,500 -- Running job Every 2 seconds do routine_every_30_seconds() (last run: [never], next run: 2018-12-02 19:34:52)
+2018-12-02 19:34:52,500 -- DATA_HANDLER - Downloading earthquake data
+2018-12-02 19:34:53,819 -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:51, next run: 2018-12-02 19:34:53)
+2018-12-02 19:34:53,819 -- DATA_HANDLER - Downloading earthquake data
+2018-12-02 19:34:54,517 -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:52, next run: 2018-12-02 19:34:54)
+2018-12-02 19:34:54,517 -- DATA_HANDLER - Downloading earthquake data
+2018-12-02 19:34:55,838 -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:53, next run: 2018-12-02 19:34:55)
+2018-12-02 19:34:55,839 -- DATA_HANDLER - Downloading earthquake data
+2018-12-02 19:34:56,535 -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:54, next run: 2018-12-02 19:34:56)
+2018-12-02 19:34:56,535 -- DATA_HANDLER - Downloading earthquake data
+2018-12-02 19:34:57,855 -- Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:34:55, next run: 2018-12-02 19:34:57)
+2018-12-02 19:34:57,855 -- DATA_HANDLER - Downloading earthquake data
+INFO:root:DATA_HANDLER - Downloading earthquake data
+INFO:werkzeug: * Restarting with stat
+INFO:root:DATA_HANDLER - Downloading earthquake data
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 197-708-606
+INFO:werkzeug: * Running on http://0.0.0.0:8180/ (Press CTRL+C to quit)
+INFO:schedule:Running job Every 2 seconds do routine_every_30_seconds() (last run: [never], next run: 2018-12-02 19:35:06)
+INFO:root:DATA_HANDLER - Downloading earthquake data
+INFO:schedule:Running job Every 2 seconds do routine_every_30_seconds() (last run: [never], next run: 2018-12-02 19:35:06)
+INFO:root:DATA_HANDLER - Downloading earthquake data
+INFO:schedule:Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:35:06, next run: 2018-12-02 19:35:08)
+INFO:root:DATA_HANDLER - Downloading earthquake data
+INFO:schedule:Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:35:06, next run: 2018-12-02 19:35:08)
+INFO:root:DATA_HANDLER - Downloading earthquake data
+INFO:schedule:Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:35:08, next run: 2018-12-02 19:35:10)
+INFO:root:DATA_HANDLER - Downloading earthquake data
+INFO:schedule:Running job Every 2 seconds do routine_every_30_seconds() (last run: 2018-12-02 19:35:08, next run: 2018-12-02 19:35:10)
+INFO:root:DATA_HANDLER - Downloading earthquake data
+WARNING:werkzeug: * Debugger is active!

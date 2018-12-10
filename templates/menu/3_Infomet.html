@@ -1,0 +1,46 @@
+<div class="infomet">
+    <div class="infomet-dialog-warp">
+        <div class="infomet-dialog-box">
+                <div class="infomet-dialog-form">
+                    <div class="infomet-dialog-header">Sistem Infomet<i class="fa fa-times" aria-hidden="true" id="close-infomet-dialog" style="position: absolute;right: 10px;top: 10px;"></i></div>
+            <div class="infomet-dialog-content">
+                    <div>
+                        <label for="infomet-name">Nama Infomet :</label><br>
+                        <input id="infomet-name" type="text" value="">
+                    </div>
+                    <div>
+                        <label for="infomet-url">URL :</label><br>
+                        <input id="infomet-url" type="text" value="">
+                    </div>
+                    <div>
+                        <label for="infomet-lat">Latitude :</label><br>
+                        <input id="infomet-lat" type="text" value="">
+                    </div>
+                    <div>
+                        <label for="infomet-lon">Longitude :</label><br>
+                        <input id="infomet-lon" type="text" value="">
+                    </div>
+                    <div>
+                        <label for="infomet-slide">Grup Slide</label><br>
+                        <select id="infomet-slide" name="infomet-group-slide">
+                        </select>
+                    </div>
+                    <div>
+                        <button class="green button" id="add-infomet">Tambah</button>
+                        <button class="blue button" id="update-infomet">Update</button>
+                        <button class="red button" id="remove-infomet">Hapus</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="infomet-top">
+        <div style="width: 1000px;margin: auto;position: relative">
+            <button id="open-infomet-dialog" class="green button" style="position: absolute;right: 0;top:5px">+ Tambah Infomet</button>
+        </div>
+    </div>
+    <div class="infomet-warp">
+        <table style="overflow-y: scroll;" id="table-infomet">
+        </table>
+    </div>
+</div>

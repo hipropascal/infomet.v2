@@ -1,0 +1,61 @@
+<div class="slide">
+    <div class="slide-dialog-warp">
+        <div class="slide-dialog-box">
+            <div class="slide-dialog-header">Group Slide<i class="fa fa-times" aria-hidden="true" id="close-slide-dialog"></i></div>
+            <div class="slide-dialog-content">
+                <div class="slide-dialog-form">
+                    <div style="flex: 1">
+                        <div class="slide-form-group">
+                            <label for="name">Nama Group :</label><br>
+                            <input id="name" type="text" value="" class="input-slide">
+                        </div>
+                        <div class="slide-form-group">
+                            <label for="wilayah">Gelombang, Arus & Angin :</label><br>
+                            <select id="wilayah" class="input-slide">
+                                <option value="">--Pilih Wilayah--</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div style="flex: 1">
+                        <div class="slide-form-group">
+                            <label for="cuaca_perairan">Cuaca Perairan :</label><br>
+                            <select multiple id="cuaca_perairan" class="input-slide">
+                            </select>
+                        </div>
+                        <div class="slide-form-group">
+                            <label for="cuaca_pelabuhan">Cuaca Pelabuhan :</label><br>
+                            <select multiple id="cuaca_pelabuhan" class="input-slide">
+                            </select>
+                        </div>
+                        <div class="slide-form-group">
+                            <label for="cuaca_kota">Cuaca Kota :</label><br>
+                            <select multiple id="cuaca_kota" class="input-slide">
+                            </select>
+                        </div>
+                    </div>
+                    <!--<div class="slide-form-group">-->
+                    <!--<label for="slide-lon">Peta PDPI :</label><br>-->
+                    <!--<input id="slide-lon" type="text" value="">-->
+                    <!--</div>-->
+                    <div class="slide-button-group add">
+                        <button class="green button" id="add-slide" style="position: absolute;right: 20px;">Tambah</button>
+                        <button class="blue button" id="update-slide" style="position: absolute;right: 20px;">Update</button>
+                        <button class="red button" id="remove-slide" style="position: absolute;left: 20px;">Hapus
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="slide-top">
+        <div style="width: 1000px;margin: auto;position: relative">
+            <button id="open-slide-dialog" class="green button" style="position: absolute;right: 0;top:5px">+ Tambah
+                Group Slide
+            </button>
+        </div>
+    </div>
+    <div class="slide-warp">
+        <table style="overflow-y: scroll;">
+        </table>
+    </div>
+</div>
